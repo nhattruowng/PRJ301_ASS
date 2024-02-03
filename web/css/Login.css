@@ -9,15 +9,15 @@ body{
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background-image: url("../img/Login.jpg");
+	background-image: url("../img/backg.jpg");
 	background-size: cover;
 	background-position: center;
 }
 .wrapper{
 	width: 420px;
 	background: transparent;
-	border: 2px solid slategrey;
-	backdrop-filter: blur(20px);
+	border: 2px solid #494b4e;
+	backdrop-filter: blur(2px);
 	box-shadow: 0 0 10px black;
 	color: white;
 	border-radius: 10px;
@@ -39,7 +39,7 @@ body{
 	background: transparent;
 	border: none;
 	outline: none;
-	border: 2px solid slategrey;
+	border: 2px solid #494b4e;
 	border-radius:40px ;
 	font-size: 16px;
 	color: white;
