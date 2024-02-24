@@ -1,6 +1,8 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="unnamed">
     <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
-    <root id="root" />
+    <root id="root">
+      <element id="extracted-dir" path="$PROJECT_DIR$/../sqljdbc4.jar" path-in-jar="/" />
+    </root>
   </artifact>
 </component>
